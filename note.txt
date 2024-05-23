@@ -1,0 +1,2 @@
+-paste folder raw vào res(hiệu ứng âm thanh)
+-vào build.gradle(app) thêm implementation("nl.dionsegijn:konfetti-xml:2.0.4") ở dependencies
